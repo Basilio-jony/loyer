@@ -1,0 +1,136 @@
+.bas{
+  margin-top: 20px
+}
+.shado{
+  box-shadow: 5px 5px 8px 2px;
+}
+.taille{
+	font-size: 12px
+}
+.jolie{
+	border: 2px solid red
+}
+.jolie2{
+	border: 2px solid #2C9FAF;
+	background-color: #DDDFEB
+}
+th{
+	background: linear-gradient(to bottom right,#FD9A34, #FD9A34);
+	border-color: #FD9A34
+}
+.bolt{
+	font-weight: bolder;
+	color: white;
+}
+
+.rod{
+	background-color: #FCB92C; 
+	/*margin-left: 255px;*/
+	color: white
+}
+.rod1{
+	background-color: #bbbbbbbb; 
+	margin-left: 455px;
+	color: white;
+	height: 30px;
+	margin-top: 170px
+
+}
+.police{
+  font-family:FreeSans;
+}
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 10px;
+  height: 70px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+
+}
+
+<style>
+.example {
+  padding: 20px;
+  color: white;
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+ .example {
+  	/*background: red;*/
+  	display: none;
+  }
+  .recap {
+  	font-size: 8px;
+  	background: red;
+  }
+  
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .example {
+  	/*background: red;*/
+  	display: none;
+  } 
+  .recap {
+  	font-size: 8px;
+  	background: red;
+  } 
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .example {
+  	/*background: blue;*/
+  display: inline-flex;}
+
+  
+} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .example {
+  	/*background: orange;*/
+  display: inline-flex;
+  }
+} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .example {
+  	/*background: white;*/
+  display: inline-flex;
+  }
+}
+</style>

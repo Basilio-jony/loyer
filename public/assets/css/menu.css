@@ -1,0 +1,60 @@
+/* Estilizando o menu lateral */
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: -250px; /* Escondido inicialmente */
+    width: 250px;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6); /* Transparente */
+    backdrop-filter: blur(10px); /* Efeito de vidro */
+    padding-top: 20px;
+    transition: 0.4s;
+    z-index: 1000;
+    overflow-y: auto;
+}
+
+/* Estilos dos links do menu */
+.sidebar a {
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidebar a:hover {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+/* Botão de abrir menu */
+.open-btn {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 5px;
+    z-index: 1001;
+}
+
+/* Botão de fechar menu */
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    color: white;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+/* Animação de rolagem suave */
+html {
+    scroll-behavior: smooth;
+}
