@@ -11,10 +11,10 @@
 						</div>
 						<!-- company desc info -->
 						<div class="company-desc-info">
-							<p> <i class="bi bi-telephone"></i> telefone : +244 934 41 13 52 </p>
-							<p> <i class="bi bi-envelope-fill"></i> Email: csassociados@hotlook.pt </p>
+							<p> <i class="fa-solid fa-phone"></i> telefone : +244 934 41 13 52 </p>
+							<p> <i class="fa-solid fa-envelope"></i> Email: csassociados@hotlook.pt </p>
 							<a target="_blank" href="https://www.google.com/maps/place/8%C2%B048'43.4%22S+13%C2%B014'14.6%22E/@-8.8120588,13.2348156,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-8.8120588!4d13.2373905?hl=fr&entry=ttu">
-								<p> <i class="bi bi-geo-alt-fill"></i> Rua rainha Ginga, Edificio Javil office </p>
+								<p> <i class="fa-solid fa-location-dot"></i> Rua rainha Ginga, Edificio Javil office </p>
 							</a>
 							<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3942.7231824992323!2d13.237388900000001!3d-8.812055599999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwNDgnNDMuNCJTIDEzwrAxNCcxNC42IkU!5e0!3m2!1sfr!2sao!4v1719165949876!5m2!1sfr!2sao" width="250" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -60,7 +60,7 @@
 						<div class="menu-quick-link-contact">
 							<!-- contact icon -->
 							<div class="footer-contact-icon">
-								<i class="bi bi-telephone-x"></i>
+								<i class="fa-solid fa-phone-flip"></i>
 							</div>
 							<!-- contact title -->
 							<div class="footer-contact-title">

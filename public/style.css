@@ -599,6 +599,10 @@ h1.section-text {
     padding: 120px 0 100px;
 }
 .about-thumb3 img {
+    transform: scale(1.2);
+    width: 120%; /* Ajusta ao container */
+    height: auto; /* Mantém a proporção */
+    max-width: 500px; /* Ajusta o tamanho conforme necessário */
     border: 6px solid #B59A6D;
     border-radius: 4px;
     margin: 0 0 0px -70px;
@@ -2280,11 +2284,12 @@ ul.footer-widget-list li:hover a {
  ==================================================-*/
 
 .breatcam-section {
-    background: url(assets/images/resource/breatcome-bg.png);
+    background: url(assets/images/resource/csa2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: center 20%;
     height: 500px;
+
 }
 /*breatcam menu*/
 .breatcam-menu ul li {

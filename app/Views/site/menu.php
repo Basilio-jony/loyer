@@ -7,7 +7,7 @@
 				<div class="col-lg-2">
 					<div class="logo">
 						<a class="logo_img" href="<?php echo base_url('inocio')?>" title="lawyer">
-							<img style="border-radius : 15px; height:auto; width:200px; " src="img/logo.jpeg" alt="Logotipo" />
+							<img style="border-radius : 15px; height:auto; width: 100px; " src="img/csaLogo.png" alt="Logotipo" />
 						</a>
 					</div>
 				</div>

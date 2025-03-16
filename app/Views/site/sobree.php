@@ -37,14 +37,14 @@
             <div class="col-lg-6 col-md-6">
                 <!-- about thumb -->
                 <div class="about-thumb3">
-                    <img src="assets/images/resource/about4.jpg" alt="">
+                    <img src="assets/images/resource/csa1.jpg" alt="">
                 </div>
             </div>  
             <div class="col-lg-6 col-md-6">
                 <div class="lawyer-section-title">
                     <h1 class="about-border2"><u>CSA</u></h1>
                     <h1>  <br>  </h1>
-                    <p class="about-pt"> Bem-vindo à CSA (Cesaltina Sessa e Associados), uma referência sólida no setor jurídico angolano desde 2021. Com mais de três anos de experiência, temos o orgulho de oferecer um serviço jurídico de excelência, adaptado às necessidades de uma sociedade em constante evolução.<br> 
+                    <p class="about-pt"> Bem-vindo a CSA (Cesaltina Sessa e Associados), uma referência sólida no setor jurídico angolano desde 2021. Com mais de três anos de experiência, temos o orgulho de oferecer um serviço jurídico de excelência, adaptado às necessidades de uma sociedade em constante evolução.<br> 
                     Nossa equipe é composta por advogados altamente qualificados e dedicados, cada um especializado em diferentes áreas do direito, garantindo uma abordagem abrangente e estratégica para cada caso. Atuamos com compromisso e integridade, buscando sempre os melhores resultados para nossos clientes, sejam eles indivíduos ou empresas.<br>
                     Contamos com uma equipe altamente experiente e respeitada, pronta para atender às necessidades de clientes angolanos e estrangeiros que desejam investir em qualquer província de Angola, bem como de empresas angolanas que buscam expandir seus investimentos para outros países.<br>
                     Nosso objetivo é ser o parceiro jurídico de confiança para nossos clientes, oferecendo soluções inovadoras e eficazes em um ambiente dinâmico e desafiador. Agradecemos pela sua visita e estamos prontos para ajudar a alcançar seus objetivos jurídicos, seja em Angola ou além-fronteiras.<br>

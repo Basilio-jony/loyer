@@ -3,7 +3,18 @@
 <!--==================================================-->
 <!-- Start charina breatcam section  -->
 <!--==================================================-->
-<div class="breatcam-section d-flex align-items-center">
+<div class="breatcam-section d-flex align-items-center" style="
+    background-image: url('<?php 
+        echo basename($_SERVER['PHP_SELF']) == 'contactos.php' ? 
+        'assets/images/resource/csa1.jpg' : 
+        'assets/images/resource/contatos1.jpg'; 
+    ?>');
+    background-size: cover;
+    background-position: center;
+">
+
+
+
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -110,7 +121,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="contact-information2">
 				<div class="contacts-icon">
-				<i class="bi bi-telephone"></i>
+				<i class="fa-solid fa-phone"></i>
 				</div>
 				<div class="contacts-title">
 				<h5>Ligue Para Nós</h5>
@@ -121,7 +132,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="contact-information2">
 				 	<div class="contacts-icon upper">
-				 		<i class="bi bi-envelope-fill"></i>
+				 		<i class="fa-solid fa-envelope"></i>
 				 	</div>
 				 	<div class="contacts-title">
 				 		<h5>Mande-nos Um Email</h5>
@@ -132,7 +143,7 @@
 			<div class="col-lg-4 col-md-6">
 				 <div class="contact-information2">
 				 	<div class="contacts-icon upper2">
-				 		<i class="bi bi-geo-alt-fill"></i>
+				 		<i class="fa-solid fa-location-dot"></i>
 				 	</div>
 				 	<div class="contacts-title">
 				 		<h5>Nossa Localização</h5>

@@ -161,7 +161,7 @@
 			</div>
 		</div>
 		<div class="hero-button" style="padding-left: 900px">
-			<a  href="<?php echo base_url('services?id=#mais_servicos')?>"> Mais servicos <i class="bi bi-arrow-right"></i></a>
+			<a  href="<?php echo base_url('services?id=#mais_servicos')?>"> Mais serviços <i class="bi bi-arrow-right"></i></a>
 		</div>
 	</div>
 	
@@ -171,11 +171,11 @@
 				<div class="col-lg-6 col-md-12">
 					<!-- about thumb -->
 					<div class="about-thumb">
-						<img src="assets/images/resource/about2.png" alt="">
+						<img src="assets/images/resource/about1.jpg" alt="">
 						<!-- about counter -->
 						<div class="about-counter">
 							<div class="about-counter-title">
-								<h3 class="counter">05</h3>
+								<h3 class="counter">03</h3>
 								<h6>Anos de experiência</h6>
 							</div>
 						</div>
@@ -190,14 +190,14 @@
 						<div class="row">
 							<div class="col-lg-6 col-md-6">
 								<div class="about-check-list">
-									<p> <i class="bi bi-check2"></i> qualidade e fiabilidade no tratamento de questões. </p>
-									<p> <i class="bi bi-check2"></i> a nossa capacidade de encontrar soluções</p>
+									<p> <i class="fa-solid fa-check"></i> Qualidade e fiabilidade no tratamento das questões. </p>
+									<p> <i class="fa-solid fa-check"></i> A nossa capacidade de encontrar soluções</p>
 								</div>
 							</div>
 							<div class="col-lg-6 col-md-6 pr-0">
 								<div class="about-check-list">
-									<p> <i class="bi bi-check2"></i> Solução fácil e rápida </p>
-									<p> <i class="bi bi-check2"></i> Serviços Jurídicos Especializados </p>
+									<p> <i class="fa-solid fa-check"></i> Solução fácil e rápida </p>
+									<p> <i class="fa-solid fa-check"></i> Serviços Jurídicos Especializados </p>
 								</div>
 							</div>
 						</div>
